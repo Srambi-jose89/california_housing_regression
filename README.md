@@ -16,6 +16,6 @@ This project is about House Prices in Residential areas of California USA
 
 ### Installation
 ```bash
-git clone https://github.com/josesrambicken-89.git
+git clone https://github.com/Srambi-jose89.git
 cd california_house_regression
 pip install -r requirements.txt
